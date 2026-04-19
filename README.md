@@ -1,175 +1,226 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:703EDA,50:F64271,100:00BFA6&text=Raksha%20Kademani&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=ML%20%26%20AI%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Berlin&descSize=16&descAlignY=55&animation=fadeIn" alt="Raksha Kademani profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=0:703EDA,50:F64271,100:00BFA6&amp;text=Raksha%20Rajkumar%20Kademani&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%7C%20Frontend%20Developer%20%7C%20AI%20Engineer&amp;descSize=16&amp;descAlignY=55&amp;animation=fadeIn" alt="Raksha Rajkumar Kademani profile banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=650&color=703EDA&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Raksha+%F0%9F%91%8B;I+build+AI-powered+products;NLP+%7C+Computer+Vision+%7C+LLM+Workflows;Open+to+Working+Student+%2F+AI-ML+roles" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=24&amp;duration=2800&amp;pause=700&amp;color=703EDA&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Hi%2C%20I%27m%20Raksha%20Rajkumar%20Kademani;Full%20Stack%20and%20Frontend%20Developer;AI%20Engineer%20with%20practical%20ML%20projects;I%20build%20clean%20web%20apps%20with%20intelligent%20features" alt="Typing introduction" />
 </p>
 
 <p align="center">
   <a href="https://raksha-rajkumar-kademani.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/raksha-r-kademani-1405">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@raksha.rk14">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium" />
   </a>
   <a href="mailto:raksha.rk14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raksha-1417&style=for-the-badge&color=703eda&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/Raksha-1417">
+    <img src="https://komarev.com/ghpvc/?username=Raksha-1417&amp;style=for-the-badge&amp;color=703eda&amp;label=PROFILE%20VIEWS" alt="Profile views" />
+  </a>
 </p>
 
 <br/>
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <h3>👩‍💻 About Me</h3>
+    <td width="64%" valign="top">
+      <h3>About Me</h3>
       <p>
-        Hi, I’m <strong>Raksha</strong>, an MSc Computer Science student in Berlin specializing in
-        <strong>Machine Learning & AI</strong>. I enjoy turning models into practical products with
-        clean full-stack experiences around them.
+        Hi, I am <strong>Raksha Rajkumar Kademani</strong>, an MSc Computer Science student in Berlin.
+        I build responsive web applications, full-stack features, and AI-powered tools that solve practical problems.
       </p>
-      <ul>
-        <li>🎓 <strong>MSc Computer Science</strong> @ IU International University, Berlin</li>
-        <li>💼 <strong>AI & Full Stack Developer Intern</strong> @ Gaddr, Stockholm</li>
-        <li>🏢 Ex-<strong>Software Engineer</strong> @ Tietoevry, with 2.5+ years in .NET, C#, and Blazor</li>
-        <li>🤖 Building <strong>NLP pipelines</strong>, <strong>Computer Vision</strong> systems, and <strong>LLM workflows</strong></li>
-        <li>☁️ <strong>Microsoft Azure AZ-900</strong> Certified</li>
-        <li>🏆 <strong>Top 5 Business Case</strong> — Tech Utsav 2024 @ Tietoevry</li>
-        <li>🌍 Berlin, Germany · Open to <strong>Working Student / AI-ML</strong> opportunities</li>
-      </ul>
+      <p>
+        My background combines <strong>frontend development</strong>, <strong>full-stack engineering</strong>,
+        <strong>.NET/C# experience</strong>, and hands-on <strong>machine learning</strong> projects.
+        I am looking for opportunities as a <strong>Frontend Developer</strong>,
+        <strong>Full Stack Developer</strong>, <strong>Working Student</strong>, or <strong>AI Engineer</strong>.
+      </p>
     </td>
-    <td width="42%" align="center" valign="top">
-      <img alt="Woman coding animation" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
+    <td width="36%" align="center" valign="middle">
+      <img src="https://github.com/Raksha-1417.png" width="180" alt="Raksha GitHub profile photo" />
       <br/>
-      <sub><strong>Building useful AI, one thoughtful workflow at a time.</strong></sub>
+      <sub><strong>Full stack, frontend, and AI engineering</strong></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### ✨ Current Focus
+### Career Snapshot
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Building</strong><br/>
-      AI support workflows, NLP classifiers, and dashboards that make model behavior easier to understand.
+      <strong>Frontend</strong><br/>
+      React, Angular, TypeScript, JavaScript, Tailwind CSS, responsive UI, dashboards, and reusable components.
     </td>
     <td width="33%" valign="top">
-      <strong>Exploring</strong><br/>
-      LLM application patterns, explainable AI, and production-ready computer vision pipelines.
+      <strong>Full Stack</strong><br/>
+      Node.js, NestJS, .NET, C#, FastAPI, REST APIs, PostgreSQL, MongoDB, Redis, authentication, and deployment.
     </td>
     <td width="33%" valign="top">
-      <strong>Writing</strong><br/>
-      Notes on AI, software development, and practical lessons from building real projects.
+      <strong>AI Engineering</strong><br/>
+      Python, scikit-learn, NLP classification, computer vision, YOLOv8, OpenCV, SHAP, Grad-CAM, and LLM workflows.
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack
+### Highlights
+
+- MSc Computer Science student at IU International University, Berlin, specializing in Machine Learning and AI
+- AI and Full Stack Developer Intern at Gaddr, Stockholm
+- Former Software Engineer at Tietoevry with 2.5+ years of .NET, C#, Blazor, and enterprise software experience
+- Built full-stack and frontend projects using React, Angular, .NET APIs, Flask, FastAPI, and PostgreSQL
+- Built AI features for ticket classification, priority prediction, owner suggestion, computer vision, and prediction dashboards
+- Microsoft Azure AZ-900 Certified
+- Top 5 Business Case, Tech Utsav 2024 at Tietoevry
+
+---
+
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cs,react,angular,nodejs,nestjs,dotnet,fastapi,postgres,mongodb,redis,azure,aws,docker,git&perline=9" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,nodejs,nestjs,dotnet,cs,python,fastapi,postgres,mongodb,redis,azure,aws,docker,git&amp;perline=10" alt="Tech stack icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/YOLOv8-00DDDD?style=flat-square" alt="YOLOv8" />
-  <img src="https://img.shields.io/badge/SHAP_%7C_Grad--CAM-FF4B4B?style=flat-square" alt="SHAP and Grad-CAM" />
-  <img src="https://img.shields.io/badge/NLP_Classification-FF6F00?style=flat-square" alt="NLP Classification" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Angular%20%7C%20TypeScript-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="Frontend skills" />
+  <img src="https://img.shields.io/badge/Backend-.NET%20%7C%20Node.js%20%7C%20FastAPI-703EDA?style=flat-square" alt="Backend skills" />
+  <img src="https://img.shields.io/badge/AI%2FML-Python%20%7C%20NLP%20%7C%20Computer%20Vision-F64271?style=flat-square" alt="AI and ML skills" />
+  <img src="https://img.shields.io/badge/Cloud-Azure%20AZ--900%20%7C%20AWS%20%7C%20Docker-00BFA6?style=flat-square" alt="Cloud skills" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Support Ticket System</h3>
+      <h3 align="center">AutoTicket Manager</h3>
       <p align="center">
-        <a href="https://github.com/Raksha-1417">
-          <img src="https://img.shields.io/badge/View_Repo-703eda?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
+        <a href="https://github.com/Raksha-1417/AutomaticSupportTicketSystem">
+          <img src="https://img.shields.io/badge/View%20Repo-703EDA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="AutoTicket Manager repository" />
         </a>
       </p>
       <p>
-        Full-stack analytics system using an <strong>NLP classification pipeline</strong> to auto-categorize support tickets,
-        with a React dashboard for model performance and productivity insights.
+        Full-stack support triage system with a React and Tailwind dashboard, Flask/FastAPI backend,
+        PostgreSQL or SQLite storage, and ML models for ticket category, priority, sentiment, keyword extraction,
+        and owner suggestion.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square" alt="NLP" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">👁️ Smart Damage Detection</h3>
+      <h3 align="center">Portfolio Website</h3>
       <p align="center">
-        <a href="https://github.com/Raksha-1417">
-          <img src="https://img.shields.io/badge/View_Repo-703eda?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
+        <a href="https://raksha-rajkumar-kademani.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio live demo" />
+        </a>
+        <a href="https://github.com/Raksha-1417/Portfolio">
+          <img src="https://img.shields.io/badge/View%20Repo-703EDA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Portfolio repository" />
         </a>
       </p>
       <p>
-        <strong>YOLOv8</strong> computer vision system for automated logistics damage detection, reaching
-        <strong>~90% accuracy</strong> with SHAP and Grad-CAM for explainability.
+        Personal portfolio for presenting projects, experience, and technical strengths with a modern frontend,
+        animations, and deployment workflow.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Remix-000000?style=flat-square&amp;logo=remix&amp;logoColor=white" alt="Remix" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=three.js&amp;logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Warehouse Management</h3>
+      <p align="center">
+        <a href="https://github.com/Raksha-1417/WareHouseManagement">
+          <img src="https://img.shields.io/badge/Frontend-703EDA?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Warehouse frontend repository" />
+        </a>
+        <a href="https://github.com/Raksha-1417/WareHouseManagementAPI">
+          <img src="https://img.shields.io/badge/API-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="Warehouse API repository" />
+        </a>
+      </p>
+      <p>
+        Angular frontend with a companion API project, showing full-stack application structure,
+        component-based UI development, API integration, and business workflow modeling.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&amp;logo=csharp&amp;logoColor=white" alt="C#" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Smart Damage Detection</h3>
+      <p align="center">
+        <a href="https://github.com/Raksha-1417/Smart-Damage-Detection-for-Logistic-Packages">
+          <img src="https://img.shields.io/badge/View%20Repo-703EDA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Smart Damage Detection repository" />
+        </a>
+      </p>
+      <p>
+        Computer vision project for logistics package damage detection using YOLOv8 and OpenCV,
+        with explainability techniques such as SHAP and Grad-CAM to make model decisions easier to inspect.
       </p>
       <p>
         <img src="https://img.shields.io/badge/YOLOv8-00DDDD?style=flat-square" alt="YOLOv8" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/SHAP-FF4B4B?style=flat-square" alt="SHAP" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🗑️ Smart Dustbin Management</h3>
+      <h3 align="center">Smart Dustbin Management</h3>
       <p align="center">
-        <a href="https://github.com/Raksha-1417">
-          <img src="https://img.shields.io/badge/View_Repo-703eda?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
+        <a href="https://github.com/Raksha-1417/Smart-Dustbin-Management-System-using-K-Means-Clustering">
+          <img src="https://img.shields.io/badge/View%20Repo-703EDA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Smart Dustbin repository" />
         </a>
       </p>
       <p>
-        Data-driven system using <strong>K-Means</strong> and <strong>Random Forest</strong> to predict bin fill levels
-        and optimize collection schedules, reducing operational costs by <strong>~25%</strong>.
+        Flask dashboard and ML pipeline that predicts bin fill levels, groups bins by fill behavior with K-Means,
+        and uses Random Forest regression to estimate days until a bin reaches capacity.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-        <img src="https://img.shields.io/badge/K--Means-703eda?style=flat-square" alt="K-Means" />
-        <img src="https://img.shields.io/badge/Random_Forest-228B22?style=flat-square" alt="Random Forest" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/K--Means-703EDA?style=flat-square" alt="K-Means" />
+        <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square" alt="Random Forest" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Portfolio Website</h3>
+      <h3 align="center">Frontend and API Practice</h3>
       <p align="center">
-        <a href="https://raksha-rajkumar-kademani.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
+        <a href="https://github.com/Raksha-1417/Web_AngularAPI">
+          <img src="https://img.shields.io/badge/Angular%20API-703EDA?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular API repository" />
+        </a>
+        <a href="https://github.com/Raksha-1417/React_Axios_Dotnet">
+          <img src="https://img.shields.io/badge/React%20Axios%20.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="React Axios .NET repository" />
         </a>
       </p>
       <p>
-        Personal portfolio showcasing projects, skills, and experience. Built with modern web technologies and deployed on
-        <strong>Vercel</strong>.
+        Full-stack practice projects focused on connecting modern frontends to backend APIs,
+        working with CRUD flows, HTTP calls, forms, data display, and .NET service layers.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&amp;logo=axios&amp;logoColor=white" alt="Axios" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
       </p>
     </td>
   </tr>
@@ -177,41 +228,43 @@
 
 ---
 
-### 📊 GitHub Snapshot
+### GitHub Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raksha-1417&show_icons=true&hide_border=true&title_color=703eda&icon_color=f64271&text_color=444444&bg_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" alt="Raksha's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raksha-1417&layout=compact&hide_border=true&title_color=703eda&text_color=444444&bg_color=ffffff&langs_count=8" alt="Raksha's top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raksha-1417&amp;show_icons=true&amp;hide_border=true&amp;title_color=703eda&amp;icon_color=f64271&amp;text_color=444444&amp;bg_color=ffffff&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true" alt="Raksha's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raksha-1417&amp;layout=compact&amp;hide_border=true&amp;title_color=703eda&amp;text_color=444444&amp;bg_color=ffffff&amp;langs_count=8" alt="Raksha's top languages" />
 </p>
 
 <p align="center">
-  <img width="62%" src="https://streak-stats.demolab.com?user=Raksha-1417&hide_border=true&ring=703eda&fire=f64271&currStreakLabel=703eda&sideLabels=703eda&dates=444444" alt="GitHub streak stats" />
+  <img width="62%" src="https://streak-stats.demolab.com?user=Raksha-1417&amp;hide_border=true&amp;ring=703eda&amp;fire=f64271&amp;currStreakLabel=703eda&amp;sideLabels=703eda&amp;dates=444444" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raksha-1417&bg_color=ffffff&color=703eda&line=703eda&point=f64271&area=true&hide_border=true" alt="Raksha's activity graph" />
-</p>
-
----
-
-### 🏅 Certifications & Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-AZ--900_Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure AZ-900 Certified" />
-  <img src="https://img.shields.io/badge/Udemy-Modern_JavaScript-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Modern JavaScript" />
-  <img src="https://img.shields.io/badge/Top_5-Tech_Utsav_2024_(Tietoevry)-FFD700?style=for-the-badge" alt="Top 5 Tech Utsav 2024" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raksha-1417&amp;bg_color=ffffff&amp;color=703eda&amp;line=703eda&amp;point=f64271&amp;area=true&amp;hide_border=true" alt="Raksha's activity graph" />
 </p>
 
 ---
 
-### 🌷 Beyond Code
+### Certifications and Achievements
 
 <p align="center">
-  I like building systems that feel useful, readable, and kind to the people using them.
-  You can also find me writing on <a href="https://medium.com/@raksha.rk14">Medium</a>
-  and polishing ideas into practical AI projects.
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900%20Certified-0078D4?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white" alt="Microsoft Azure AZ-900 Certified" />
+  <img src="https://img.shields.io/badge/Udemy-Modern%20JavaScript-EC5252?style=for-the-badge&amp;logo=udemy&amp;logoColor=white" alt="Modern JavaScript" />
+  <img src="https://img.shields.io/badge/Top%205-Tech%20Utsav%202024%20Tietoevry-FFD700?style=for-the-badge" alt="Top 5 Tech Utsav 2024" />
+</p>
+
+---
+
+### What I Am Looking For
+
+<p align="center">
+  Frontend Developer roles · Full Stack Developer roles · Working Student roles · AI Engineer roles
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00BFA6,50:F64271,100:703EDA" alt="Footer wave" />
+  I enjoy building interfaces that are clean and useful, APIs that are reliable, and AI features that fit naturally into real products.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;section=footer&amp;color=0:00BFA6,50:F64271,100:703EDA" alt="Footer wave" />
 </p>
