@@ -41,11 +41,6 @@
         <strong>Full Stack Developer</strong>, <strong>Working Student</strong>, or <strong>AI Engineer</strong>.
       </p>
     </td>
-    <td width="36%" align="center" valign="middle">
-      <img src="https://github.com/Raksha-1417.png" width="180" alt="Raksha GitHub profile photo" />
-      <br/>
-      <sub><strong>Full stack, frontend, and AI engineering</strong></sub>
-    </td>
   </tr>
 </table>
 
